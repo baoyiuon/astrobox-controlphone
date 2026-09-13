@@ -3,10 +3,11 @@
     "id": "com.techbao.controlphone",
     "restype": "quick_app",
     "name": "遥控手机",
-    "description": "用手环触摸板手势遥控 Android 手机：滑动、单击、双击、返回、主页、锁屏，长按后上下滑调节音量，支持抖音、B站、微信、小红书等常用应用快捷启动，还能在手环上查看手机电量。需在手机端安装配套 App 并开启无障碍服务；手机端支持 Android 和鸿蒙 4（鸿蒙 NEXT 暂不支持）。手表应用内提供手机端下载二维码。",
+    "description": "用手环触摸板手势遥控 Android 手机：滑动、单击、双击、返回、主页、锁屏，长按后上下滑调节音量，支持抖音、B站、微信、小红书等常用应用快捷启动，还能在手环上查看手机电量。需在手机端安装配套 App 并开启无障碍服务；手机端支持 Android 和鸿蒙 4（鸿蒙 NEXT 暂不支持），可免费试用 7 天，之后需购买激活码永久解锁（购买入口见外部链接）。手表应用内提供手机端下载二维码。",
     "preview": [
       "media/遥控手机鼠标封面素材.png",
-      "media/小米手环11开箱(1).png"
+      "media/小米手环11开箱(1).png",
+      "media/cover-3x2.png"
     ],
     "icon": "media/icon-192.png",
     "cover": "media/cover-1200x800.jpg",
@@ -17,7 +18,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "爱发电 · 购买激活码",
+      "url": "https://ifdian.net/item/cc9afb52a44e11f182895254001e7c00",
+      "icon": "Basket"
+    }
+  ],
   "downloads": {
     "xmb9": {
       "version": "1.5.1",
